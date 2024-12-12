@@ -6,3 +6,8 @@ with col2:
     st.title ("Elnura Mirzayeva")
     content: "-----------"
     st.info(content)
+
+content2 = '''
+here I will add my work experience with neorodivirgent people
+"""
+st. write(content)
