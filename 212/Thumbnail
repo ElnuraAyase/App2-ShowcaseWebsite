@@ -15,3 +15,5 @@ st. write(content)
 col3, col4 = st.column(2)
 
 df = pandas.read_csv("data.csv", sep = ";" )
+with col3:
+
