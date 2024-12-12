@@ -13,3 +13,5 @@ here I will add my work experience with neorodivirgent people
 st. write(content)
 
 col3, col4 = st.column(2)
+
+df = pandas.read_csv("data.csv", sep = ";" )
