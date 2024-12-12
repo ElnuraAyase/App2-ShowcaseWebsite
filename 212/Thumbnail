@@ -1,0 +1,8 @@
+col1, col2 = st.column(2)
+
+with col1:
+    st.image(ex.ppg)
+with col2:
+    st.title ("Elnura Mirzayeva")
+    content: "-----------"
+    st.info(content)
